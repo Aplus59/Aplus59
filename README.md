@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my git 👐 I'm Khanh</h1>
 <h3 align="center">Currently Diving Deep into the World of IT 🌊</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 - 🌱 I’m currently learning **Advanced React and React Native, Machine Learning**
 
 - 📫 How to reach me **baokhanhnguyenho@gmail.com**
