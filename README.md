@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my git 👐 I'm Khanh</h1>
 <h3 align="center">Currently Diving Deep into the World of IT 🌊</h3>
-<div style="width:400;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
 - 🌱 I’m currently learning **Advanced React and React Native, Machine Learning**
 
 - 📫 How to reach me **baokhanhnguyenho@gmail.com**
