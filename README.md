@@ -1,8 +1,9 @@
+
 <h1 align="center">Welcome to my git 👐 I'm Khanh</h1>
 <h3 align="center">Currently Diving Deep into the World of IT 🌊</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif"> 
-- 🌱 I’m currently learning <b>Advanced React and React Native, Machine Learning</b>
-- 📫 How to reach me **baokhanhnguyenho@gmail.com**
+- 🌱 I’m currently learning <b>Advanced React and React Native, Machine Learning</b> </br>
+- 📫 How to reach me <a href="mailto:baokhanhnguyenho@gmail.com">baokhanhnguyenho@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin-left: 20px;">
   <h4 align="left">Programming Languages:</h4>
