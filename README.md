@@ -1,90 +1,87 @@
+<h1 align="center">Hi 👋 I'm Khanh Nguyen</h1>
+<h3 align="center">Master's Student in AI / Computer Vision @ Université Paris Cité 🇫🇷</h3>
 
-<h1 align="center">Welcome to my git 👐 I'm Khanh</h1>
-<h3 align="center">Currently Diving Deep into the World of IT 🌊</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif"> 
-- 🌱 I’m currently learning Machine Learning, AI</b> </br>
-- 📫 How to reach me <a href="mailto:baokhanhnguyenho@gmail.com">baokhanhnguyenho@gmail.com</a>
-<h3 align="left">Languages and Tools:</h3>
-<div style="margin-left: 20px;">
-  <h4 align="left">Programming Languages:</h4>
-  <p align="left"> 
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-        </a> 
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-        </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-        </a> 
-    </p>
-<h4 align="left">Frontend Development:</h4>
- <p align="left">
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-        </a> 
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-        </a>         
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-        </a>
-</p>
-<h4 align="left">Backend Development:</h4>
-<p align="left">
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-        </a>        
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-        </a> 
-    </p>
-<h4 align="left">Mobile App Development:</h4>
-<p align="left"> 
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-            <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-        </a> 
-        <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-        </a>        
-</p>
-<h4 align="left">Database:</h4>
-<p align="left"> 
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-                <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-        </a> 
-</p>
-<h4 align="left">Software:</h4>
-<p align="left"> 
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-        </a> 
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-        </a> 
-        <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-        </a> 
-</p> 
-<h4 align="left">Other</h4>
-<p align="left"> 
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-        </a>  
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-                <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-        </a>         
-</p>
-</div>
+<img align="right" alt="Coding" width="380" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif">
+
+- 🎓 Master’s in Computer Science (Vision & Intelligent Systems - VMI)
+- 🤖 Focus: Computer Vision, Machine Learning, Deep Learning, AI Systems
+- 🔬 AI Engineer & Researcher (CV / Audio AI / Recommendation Systems)
+- 📊 Interested in scalable ML pipelines & real-world AI applications
+- 📫 Reach me: <a href="mailto:baokhanhnguyenho@gmail.com">baokhanhnguyenho@gmail.com</a>
+- 🌐 GitHub: https://github.com/Aplus59
+
+---
+
+### 🧠 Research & Experience
+- 🧠 AI Engineer @ TMA Solutions  
+  → Audio deepfake detection, speaker authentication, keyword spotting  
+  → YOLO optimization on Raspberry Pi (OpenVINO / ONNX)
+
+- 🔬 AI Researcher @ AI Group HCMUS  
+  → Causal inference for counterfactual explainability in recommender systems  
+  → Paper accepted at ACiiDS 2026 (co-first author)
+
+- 📈 Quant Research Intern @ Finpros  
+  → Alpha signal generation using technical analysis (VN30 market)
+
+- 🚀 Grab Tech Bootcamp (Agile Team)  
+  → Built "Briefly" news summarization platform (text + audio + search)  
+  → Stack: OpenAI, Dagster, MongoDB, Qdrant, GitLab, Jenkins
+
+- 🕶️ DriveSyncAR Project (HCMUS AI Competition)  
+  → IoT + HUD vehicle interface control system (4th place)
+
+---
+
+### 🛠️ Technical Skills
+
+**AI / Data / ML**
+Python, C++, SQL, Computer Vision, Deep Learning, TensorFlow, scikit-learn, ONNX, OpenVINO
+
+**ML Engineering**
+Data pipelines, model deployment, API integration, experiment design, POC/MVP development
+
+**Tools & Platforms**
+Git, Docker, GitLab, Jira, Jenkins, MongoDB, Qdrant, Dagster
+
+**Web / Systems**
+Node.js, React, Next.js, REST APIs, TCP/IP, sockets
+
+---
+
+### 📚 Education
+- 🎓 Université Paris Cité — Master VMI (2025–2027)  
+  Grade: 14.2/20
+
+- 🎓 Université Claude Bernard Lyon 1 + HCMUS (2021–2024)  
+  Double degree in Computer Science  
+  Grade: 14.92/20
+
+---
+
+### 📌 Featured Projects
+- 🪙 Coin Detection System (2026)  
+  Computer vision pipeline for coin detection, material classification, and value estimation  
+  https://github.com/ColdCastlee/Analyse-d-image
+
+- 🚇 Public Transport Demand Analysis (Paris vs NYC) (2026)  
+  Large-scale data pipeline using SQL + Python  
+  https://github.com/sorooshaghaei/Big_data_project  
+  Article: https://baokhanh.page.link/Public-Transport
+
+---
+
+### 🌍 Languages
+- French: B2 (TCF)
+- English: TOEIC 850/990
+
+---
+
+### 📜 Certifications
+Machine Learning Specialization (Coursera)  
+Recommender Systems (Basic + Advanced)
+
+---
+
+### 🔗 References
+Prof. Dr. Lê Hoài Bắc — HCMUS (Computer Science Department Head)
